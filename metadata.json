@@ -1,0 +1,5 @@
+{
+  "name": "LogoNorm - Customer Logo Normalizer",
+  "description": "Standardize customer logos to 1:1 aspect ratio with pure white backgrounds and consistent padding.",
+  "requestFramePermissions": []
+}
